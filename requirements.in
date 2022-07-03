@@ -1,0 +1,12 @@
+black
+django
+flake8
+mypy
+psycopg2
+pytest
+pytest-cov
+pytest-django
+requests
+requests-mock
+djangorestframework
+ipdb
